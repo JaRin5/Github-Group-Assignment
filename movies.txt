@@ -1,10 +1,9 @@
-LOTR Fellowship of the Ring(2001) Prod: New Line Cinema
-LOTR The Two Towers(2002) Prod: New Line Cinema
-LOTR Return of the King(2003) Prod: New Line Cinema
-The Avengers(2012) Prod: Disney
-The Avengers Age Of Ultron(2015) Prod: Disney
-The Avengers Infinity War(2018) Prod: Disney
-John Wick 1(2010) Prod: Summit Entertainment
-John Wick 2(2015) Prod: Summit Entertainment
-John Wick 3(2020) Prod: Summit Entertainment
-
+LOTR Fellowship of the Ring(2001) Prod: New Line Cinema Dir: Peter Jackson
+LOTR The Two Towers(2002) Prod: New Line Cinema Dir: Peter Jackson
+LOTR Return of the King(2003) Prod: New Line Cinema Dir: Peter Jackson
+The Avengers(2012) Prod: Disney Dir: Joe Russo
+The Avengers Age Of Ultron(2015) Prod: Disney Dir: Joss Whedon
+The Avengers Infinity War(2018) Prod: Disney Dir: Anthony Russo
+John Wick 1(2010) Prod: Summit Entertainment Dir: Chad Stahelski
+John Wick 2(2015) Prod: Summit Entertainment Dir: Chad Stahelski
+John Wick 3(2020) Prod: Summit Entertainment Dir: Chad Stahelski
